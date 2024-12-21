@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/java/myweb/web/home.jsp</file>
+            <file>file:/D:/java/myweb/web/menu.jsp</file>
+            <file>file:/D:/java/myweb/web/update_role.jsp</file>
+            <file>file:/D:/java/myweb/web/search_property.jsp</file>
+            <file>file:/D:/java/myweb/web/logout.jsp</file>
+            <file>file:/D:/java/myweb/web/account.jsp</file>
+            <file>file:/D:/java/myweb/web/delete_user.jsp</file>
+            <file>file:/D:/java/myweb/web/admin.jsp</file>
+            <file>file:/D:/java/myweb/src/java/controller/Forgot_Password.java</file>
+            <file>file:/D:/java/myweb/web/forgot_password.jsp</file>
+            <file>file:/D:/java/myweb/web/room_detail.jsp</file>
+            <file>file:/D:/java/myweb/web/changepass.jsp</file>
+            <file>file:/D:/java/myweb/src/java/controller/ChangePass.java</file>
+            <file>file:/D:/java/myweb/src/java/controller/Change_Password.java</file>
+            <file>file:/D:/java/myweb/src/java/controller/Account.java</file>
+            <file>file:/D:/java/myweb/web/change_password.jsp</file>
+            <file>file:/D:/java/myweb/web/up_story.jsp</file>
+            <file>file:/D:/java/myweb/src/java/controller/LoginServlet.java</file>
+            <file>file:/D:/java/myweb/web/login.jsp</file>
+            <file>file:/D:/java/myweb/web/list_room.jsp</file>
+        </group>
+    </open-files>
+</project-private>
